@@ -1,0 +1,18 @@
+Report:
+
+In this project, I have included different calculations to manupulate students and schools data in order to draw the conclusion on students' performance across many schools. We divided our analysis in 2 main parts: District and School summary. Both includes the aggregated output of math and reading scores. District summmary basically has the group calculation of all the schools in the city. Whereas the school summary helps us in analyzing per school calculations.
+
+Conculsions: 
+
+1) From the district anlysis, if we look at the average score (math - 78.985371, reading-81.87784) and the percentage of student passing each subject (math- 74.980853%, reading -85.805463%), we can say that students are doing better in reading than in math. But if we take a look at the percentage of student passing both math and reading (65.172326%), the percentage is noticabely less. This tells that, all the students who are good in reading aren't good in math too and vice versa.
+
+2) From School Summary, if we look at the sorted and percentage passing both the subjects, in order to see top 5 schools performing well, out of 5 schools, 3 of them are discrict school type and 2 of them are of charter. Likewise, if we see the sorted overall percentage to see the what type of school students are performing low, Out of 5, 4 of them are from charter school type and 1 from district. By this result we can say that the students in district school are performing well than the charter schools.
+
+
+
+
+
+
+
+
+
